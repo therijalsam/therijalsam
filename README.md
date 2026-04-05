@@ -1,4 +1,4 @@
-# Samrakshan Rijal
+# Sam Rijal
 
 Electrical Engineering @ Texas State University  
 Computer Engineering Concentration  
